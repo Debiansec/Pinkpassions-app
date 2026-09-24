@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Glow -->
+    <path
+        android:fillColor="#33FF2A85"
+        android:pathData="M54,54m-28,0a28,28 0,1,1 56,0a28,28 0,1,1 -56,0" />
+    <!-- Pink Passions Stylized Heart / Flame Monogram -->
+    <path android:pathData="M54,34 C44,24 28,32 28,48 C28,62 48,74 54,80 C60,74 80,62 80,48 C80,32 64,24 54,34 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="45"
+                android:endColor="#FF6B9D"
+                android:startColor="#FF1368"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+    <!-- Inner Stylized PP Curve Highlight -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillAlpha="0.85"
+        android:pathData="M48,42 C44,42 42,45 42,48 C42,52 46,55 50,55 C46,59 42,66 42,68 L46,68 C46,65 49,60 52,58 C55,58 58,56 58,50 C58,45 54,42 48,42 Z M48,51 C46,51 45,49.5 45,48 C45,46.5 46,45 48,45 C50,45 53,46.2 53,48 C53,49.8 50,51 48,51 Z" />
+    <path
+        android:fillColor="#FFE4EF"
+        android:fillAlpha="0.95"
+        android:pathData="M60,42 C56,42 54,45 54,48 C54,52 58,55 62,55 C58,59 54,66 54,68 L58,68 C58,65 61,60 64,58 C67,58 70,56 70,50 C70,45 66,42 60,42 Z M60,51 C58,51 57,49.5 57,48 C57,46.5 58,45 60,45 C62,45 65,46.2 65,48 C65,49.8 62,51 60,51 Z" />
+</vector>

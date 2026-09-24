@@ -1,0 +1,6 @@
+{
+  "name": "Pink Passions",
+  "description": "South Africa's premier 18+ adult entertainment directory, lifestyle discovery, business directory and e-commerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
